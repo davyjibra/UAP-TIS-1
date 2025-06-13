@@ -19,3 +19,5 @@ POST /uap/matkul/tambah
 - liat matkul tambah
 GET /uap/matkul/saya
 
+#### Gambar ERD
+![ERD](https://github.com/user-attachments/assets/77f07650-f005-47fa-9e6b-f32224cb189d)
